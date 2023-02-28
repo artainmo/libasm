@@ -1,3 +1,3 @@
 # libasm
 
-42 school project. Create a small library is Assembly.
+42 school project. Write foundational functions in Assembly.
