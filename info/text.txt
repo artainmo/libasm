@@ -1,7 +1,0 @@
-https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
--> system calls
-
-write in x86_64 Intel Mac OS X
-https://cs.lmu.edu/~ray/notes/nasmtutorial/
-
-compile -> nasm -fmacho64 hw.s && ld hw.o && ./a.out 
